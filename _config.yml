@@ -2,6 +2,7 @@ name: SUACT
 favicon: null
 layout_spectrum: 0.9520479473285377
 typography_spectrum: 0.8887905632145703
+title: Draft site for SUACT
 cta:
   domain: null
   bucket: null
