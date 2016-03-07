@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '#Dinner #Donation #Ministry #SUACT'
-datePublished: '2016-03-07T10:02:25.476Z'
-dateModified: '2016-03-07T10:01:33.319Z'
+datePublished: '2016-03-07T10:15:08.502Z'
+dateModified: '2016-03-07T10:02:31.757Z'
 title: "SU ACT's 10th Regeneration Appeal Dinner\_"
 author: []
 sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
