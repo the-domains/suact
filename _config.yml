@@ -1,7 +1,7 @@
 name: SUACT
 favicon: null
-layout_spectrum: 0.9520479473285377
-typography_spectrum: 0.8887905632145703
+layout_spectrum: 0.88381
+typography_spectrum: 0.88589
 title: Draft site for SUACT
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#e31936'
+    - '#ffffff'
+    - '#faddd6'
+    - '#ef8885'
+    - '#ffcc49'
   brandStrength: 0.9183820423204452
   lightness: 0.8190190391615033
   saturation: 0.12635241774842143
