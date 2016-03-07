@@ -1,6 +1,6 @@
 name: SUACT
 favicon: null
-layout_spectrum: 0.65911
+layout_spectrum: 0.41301
 typography_spectrum: 0.88589
 title: Draft site for SUACT
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ef8885'
     - '#ffcc49'
   brandStrength: 0.9183820423204452
-  lightness: 0.5625
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
