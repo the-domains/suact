@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Draft site for SUACT]]></title>
+        <description><![CDATA[Draft site for SUACT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 02:28:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wild Wee Jasper 2016]]></title>
+            <description><![CDATA[<article><h1>Wild Wee Jasper 2016</h1><p>Wild Wee Jasper
+is an adventure
+camp for high
+school students. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b117fe5c-b3eb-47f4-adc4-abd4ef06c3ca.png"></article>]]></description>
+            <link>undefinedwild-wee-jasper-2016/index.html</link>
+            <guid isPermaLink="false">f3eb6a30-28a6-4922-8b99-f99d8b71eef8</guid>
+            <pubDate>Mon, 07 Mar 2016 02:27:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
