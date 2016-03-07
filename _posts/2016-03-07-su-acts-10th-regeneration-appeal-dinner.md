@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T07:08:28.366Z'
-dateModified: '2016-03-07T07:08:16.488Z'
+datePublished: '2016-03-07T07:09:14.289Z'
+dateModified: '2016-03-07T07:09:03.735Z'
 title: "SU ACT's 10th Regeneration Appeal Dinner\_"
 author: []
+sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
-published: true
 url: su-acts-10th-regeneration-appeal-dinner/index.html
 _type: Article
 
 ---
-# SU ACT's 10th Regeneration Appeal Dinner 
+# SU ACT's 10th Regeneration Appeal Dinner ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c37e485-8cde-4ba5-bd13-b760ccf98fca.jpg)
 
 ## Have had heard about our 10th annual Regeneration Appeal Dinner coming up on Wednesday 9 March? 
 
