@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Wild Wee Jasper is Scripture Union ACT's High School Adventure Camp for students in years 7-12 running from the 10th April - 16th April 2016"
-datePublished: '2016-03-07T07:01:41.652Z'
-dateModified: '2016-03-07T07:01:18.756Z'
+description: '#Camp #SUACT #WWJ'
+datePublished: '2016-03-07T07:14:38.992Z'
+dateModified: '2016-03-07T07:02:46.102Z'
 title: Wild Wee Jasper 2016
 author: []
 sourcePath: _posts/2016-03-07-wild-wee-jasper-2016.md
