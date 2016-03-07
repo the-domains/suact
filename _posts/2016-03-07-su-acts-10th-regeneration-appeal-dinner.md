@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-07T07:12:06.720Z'
-dateModified: '2016-03-07T07:11:08.909Z'
+description: '#Dinner #Donation #Ministry #SUACT'
+datePublished: '2016-03-07T07:15:01.088Z'
+dateModified: '2016-03-07T07:13:42.000Z'
 title: "SU ACT's 10th Regeneration Appeal Dinner\_"
 author: []
 sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
