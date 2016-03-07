@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '#Camp #SUACT #WWJ'
-datePublished: '2016-03-07T07:14:38.992Z'
-dateModified: '2016-03-07T07:02:46.102Z'
+datePublished: '2016-03-07T10:30:22.927Z'
+dateModified: '2016-03-07T07:14:47.995Z'
 title: Wild Wee Jasper 2016
 author: []
 sourcePath: _posts/2016-03-07-wild-wee-jasper-2016.md
