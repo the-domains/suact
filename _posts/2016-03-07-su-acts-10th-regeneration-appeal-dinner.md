@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T07:10:58.792Z'
-dateModified: '2016-03-07T07:09:20.856Z'
+datePublished: '2016-03-07T07:12:06.720Z'
+dateModified: '2016-03-07T07:11:08.909Z'
 title: "SU ACT's 10th Regeneration Appeal Dinner\_"
 author: []
 sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
