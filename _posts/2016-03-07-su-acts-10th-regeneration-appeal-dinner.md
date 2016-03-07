@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '#Dinner #Donation #Ministry #SUACT'
-datePublished: '2016-03-07T10:15:08.502Z'
-dateModified: '2016-03-07T10:02:31.757Z'
+datePublished: '2016-03-07T10:26:14.805Z'
+dateModified: '2016-03-07T10:15:19.712Z'
 title: "SU ACT's 10th Regeneration Appeal Dinner\_"
 author: []
 sourcePath: _posts/2016-03-07-su-acts-10th-regeneration-appeal-dinner.md
@@ -27,7 +27,7 @@ _type: Article
 ## Have had heard about our 10th annual Regeneration Appeal Dinner coming up on Wednesday 9 March? ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9415c31d3856acea699d8d444c26efb3595c363.png)
 
 It is going to be a great night with Clayton Fergie, a former SU ACT Director and Scripture Union International youth consultant speaking, and the ARIA winning Idea of North playing for us. There will also be a chance to hear stories from Scripture Union ACT's ministries and about our plans for the future.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8595953f-474d-4fcb-9482-1940a100bb33.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea943660af1538dbaddb7ee66c2bf48b1c3473b9.png)
 
 There is no charge to attend but it is a fundraising dinner, so you will be asked to make a donation at the end of the evening to support our important ministry. 
 
